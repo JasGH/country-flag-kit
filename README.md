@@ -19,7 +19,7 @@ phone-number country pickers, locale selectors, and dropdowns.
 ```bash
 npm install country-flag-kit
 # or
-git clone https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit.git
+git clone https://github.com/JasGH/country-flag-kit.git
 ```
 
 ## Usage
@@ -89,7 +89,7 @@ Islands** is recolored to its official deep blue (`#003087`) and orange (`#E5720
 
 MIT — see `LICENSE`. Flag artwork is from flag-icons (MIT, © 2013 Panayiotis Lipiridis).
 
+
 ---
 
-**Before you publish**, replace the placeholders: `YOUR_GITHUB_HANDLE` and `YOUR_NAME`
-(in `package.json` and `LICENSE`), and note `country-flag-kit` is available on npm (checked) — or scope it as `@YOUR_HANDLE/country-flag-kit`.
+Repo: https://github.com/JasGH/country-flag-kit — `npm publish` when ready (`country-flag-kit` is free on npm).

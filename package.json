@@ -1,7 +1,7 @@
 {
   "name": "country-flag-kit",
   "version": "1.0.0",
-  "description": "271 country flags (SVG, 4:3 + 1:1) plus flag emoji and international dial codes — a small ISO-3166 country dataset for phone inputs and country pickers.",
+  "description": "271 country flags (SVG, 4:3 + 1:1) plus flag emoji and international dial codes \u2014 a small ISO-3166 country dataset for phone inputs and country pickers.",
   "keywords": [
     "flags",
     "country-flags",
@@ -19,14 +19,14 @@
     "1x1"
   ],
   "license": "MIT",
-  "author": "YOUR_NAME",
-  "homepage": "https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit#readme",
+  "author": "Jasmine Goonei <jasmine.goonei@gmail.com>",
+  "homepage": "https://github.com/JasGH/country-flag-kit#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit.git"
+    "url": "git+https://github.com/JasGH/country-flag-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit/issues"
+    "url": "https://github.com/JasGH/country-flag-kit/issues"
   },
   "main": "index.json",
   "exports": {
