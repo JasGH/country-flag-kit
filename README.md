@@ -1,4 +1,4 @@
-# country-flags-svg
+# country-flag-kit
 
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![flags](https://img.shields.io/badge/flags-271-brightgreen)
@@ -17,9 +17,9 @@ phone-number country pickers, locale selectors, and dropdowns.
 ## Install
 
 ```bash
-npm install country-flags-svg
+npm install country-flag-kit
 # or
-git clone https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg.git
+git clone https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit.git
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ git clone https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg.git
 Build a phone-input country list from the manifest:
 
 ```js
-import flags from "country-flags-svg";   // index.json
+import flags from "country-flag-kit";   // index.json
 
 flags
   .filter(f => f.iso && f.dial_code)
@@ -92,5 +92,4 @@ MIT — see `LICENSE`. Flag artwork is from flag-icons (MIT, © 2013 Panayiotis 
 ---
 
 **Before you publish**, replace the placeholders: `YOUR_GITHUB_HANDLE` and `YOUR_NAME`
-(in `package.json` and `LICENSE`), and confirm the npm name `country-flags-svg` is free —
-if not, scope it as `@YOUR_HANDLE/country-flags`.
+(in `package.json` and `LICENSE`), and note `country-flag-kit` is available on npm (checked) — or scope it as `@YOUR_HANDLE/country-flag-kit`.

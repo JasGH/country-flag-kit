@@ -1,5 +1,5 @@
 {
-  "name": "country-flags-svg",
+  "name": "country-flag-kit",
   "version": "1.0.0",
   "description": "271 country flags (SVG, 4:3 + 1:1) plus flag emoji and international dial codes — a small ISO-3166 country dataset for phone inputs and country pickers.",
   "keywords": [
@@ -20,13 +20,13 @@
   ],
   "license": "MIT",
   "author": "YOUR_NAME",
-  "homepage": "https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg#readme",
+  "homepage": "https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg.git"
+    "url": "git+https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg/issues"
+    "url": "https://github.com/YOUR_GITHUB_HANDLE/country-flag-kit/issues"
   },
   "main": "index.json",
   "exports": {
