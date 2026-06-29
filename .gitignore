@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / npm (for future packaging)
+node_modules/
+npm-debug.log*
+*.tgz
+.npm/
+dist/
+
+# Editors
+.vscode/
+.idea/
+*.swp

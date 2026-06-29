@@ -1,0 +1,2441 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/af.svg",
+    "file_4x3": "4x3/af.svg",
+    "file_1x1": "1x1/af.svg"
+  },
+  {
+    "code": "AX",
+    "name": "Aland Islands",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ax.svg",
+    "file_4x3": "4x3/ax.svg",
+    "file_1x1": "1x1/ax.svg"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/al.svg",
+    "file_4x3": "4x3/al.svg",
+    "file_1x1": "1x1/al.svg"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/dz.svg",
+    "file_4x3": "4x3/dz.svg",
+    "file_1x1": "1x1/dz.svg"
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/as.svg",
+    "file_4x3": "4x3/as.svg",
+    "file_1x1": "1x1/as.svg"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ad.svg",
+    "file_4x3": "4x3/ad.svg",
+    "file_1x1": "1x1/ad.svg"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ao.svg",
+    "file_4x3": "4x3/ao.svg",
+    "file_1x1": "1x1/ao.svg"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ai.svg",
+    "file_4x3": "4x3/ai.svg",
+    "file_1x1": "1x1/ai.svg"
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "continent": null,
+    "iso": true,
+    "file": "4x3/aq.svg",
+    "file_4x3": "4x3/aq.svg",
+    "file_1x1": "1x1/aq.svg"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ag.svg",
+    "file_4x3": "4x3/ag.svg",
+    "file_1x1": "1x1/ag.svg"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/ar.svg",
+    "file_4x3": "4x3/ar.svg",
+    "file_1x1": "1x1/ar.svg"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/am.svg",
+    "file_4x3": "4x3/am.svg",
+    "file_1x1": "1x1/am.svg"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/aw.svg",
+    "file_4x3": "4x3/aw.svg",
+    "file_1x1": "1x1/aw.svg"
+  },
+  {
+    "code": "SH-AC",
+    "name": "Ascension Island",
+    "continent": "Africa",
+    "iso": false,
+    "file": "4x3/sh-ac.svg",
+    "file_4x3": "4x3/sh-ac.svg",
+    "file_1x1": "1x1/sh-ac.svg"
+  },
+  {
+    "code": "ASEAN",
+    "name": "Association of Southeast Asian Nations",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/asean.svg",
+    "file_4x3": "4x3/asean.svg",
+    "file_1x1": "1x1/asean.svg"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/au.svg",
+    "file_4x3": "4x3/au.svg",
+    "file_1x1": "1x1/au.svg"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/at.svg",
+    "file_4x3": "4x3/at.svg",
+    "file_1x1": "1x1/at.svg"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/az.svg",
+    "file_4x3": "4x3/az.svg",
+    "file_1x1": "1x1/az.svg"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/bs.svg",
+    "file_4x3": "4x3/bs.svg",
+    "file_1x1": "1x1/bs.svg"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/bh.svg",
+    "file_4x3": "4x3/bh.svg",
+    "file_1x1": "1x1/bh.svg"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/bd.svg",
+    "file_4x3": "4x3/bd.svg",
+    "file_1x1": "1x1/bd.svg"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/bb.svg",
+    "file_4x3": "4x3/bb.svg",
+    "file_1x1": "1x1/bb.svg"
+  },
+  {
+    "code": "ES-PV",
+    "name": "Basque Country",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/es-pv.svg",
+    "file_4x3": "4x3/es-pv.svg",
+    "file_1x1": "1x1/es-pv.svg"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/by.svg",
+    "file_4x3": "4x3/by.svg",
+    "file_1x1": "1x1/by.svg"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/be.svg",
+    "file_4x3": "4x3/be.svg",
+    "file_1x1": "1x1/be.svg"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/bz.svg",
+    "file_4x3": "4x3/bz.svg",
+    "file_1x1": "1x1/bz.svg"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/bj.svg",
+    "file_4x3": "4x3/bj.svg",
+    "file_1x1": "1x1/bj.svg"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/bm.svg",
+    "file_4x3": "4x3/bm.svg",
+    "file_1x1": "1x1/bm.svg"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/bt.svg",
+    "file_4x3": "4x3/bt.svg",
+    "file_1x1": "1x1/bt.svg"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/bo.svg",
+    "file_4x3": "4x3/bo.svg",
+    "file_1x1": "1x1/bo.svg"
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/bq.svg",
+    "file_4x3": "4x3/bq.svg",
+    "file_1x1": "1x1/bq.svg"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ba.svg",
+    "file_4x3": "4x3/ba.svg",
+    "file_1x1": "1x1/ba.svg"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/bw.svg",
+    "file_4x3": "4x3/bw.svg",
+    "file_1x1": "1x1/bw.svg"
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "continent": null,
+    "iso": true,
+    "file": "4x3/bv.svg",
+    "file_4x3": "4x3/bv.svg",
+    "file_1x1": "1x1/bv.svg"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/br.svg",
+    "file_4x3": "4x3/br.svg",
+    "file_1x1": "1x1/br.svg"
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/io.svg",
+    "file_4x3": "4x3/io.svg",
+    "file_1x1": "1x1/io.svg"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/bn.svg",
+    "file_4x3": "4x3/bn.svg",
+    "file_1x1": "1x1/bn.svg"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/bg.svg",
+    "file_4x3": "4x3/bg.svg",
+    "file_1x1": "1x1/bg.svg"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/bf.svg",
+    "file_4x3": "4x3/bf.svg",
+    "file_1x1": "1x1/bf.svg"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/bi.svg",
+    "file_4x3": "4x3/bi.svg",
+    "file_1x1": "1x1/bi.svg"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/cv.svg",
+    "file_4x3": "4x3/cv.svg",
+    "file_1x1": "1x1/cv.svg"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kh.svg",
+    "file_4x3": "4x3/kh.svg",
+    "file_1x1": "1x1/kh.svg"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/cm.svg",
+    "file_4x3": "4x3/cm.svg",
+    "file_1x1": "1x1/cm.svg"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ca.svg",
+    "file_4x3": "4x3/ca.svg",
+    "file_1x1": "1x1/ca.svg"
+  },
+  {
+    "code": "IC",
+    "name": "Canary Islands",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/ic.svg",
+    "file_4x3": "4x3/ic.svg",
+    "file_1x1": "1x1/ic.svg"
+  },
+  {
+    "code": "ES-CT",
+    "name": "Catalonia",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/es-ct.svg",
+    "file_4x3": "4x3/es-ct.svg",
+    "file_1x1": "1x1/es-ct.svg"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ky.svg",
+    "file_4x3": "4x3/ky.svg",
+    "file_1x1": "1x1/ky.svg"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/cf.svg",
+    "file_4x3": "4x3/cf.svg",
+    "file_1x1": "1x1/cf.svg"
+  },
+  {
+    "code": "CEFTA",
+    "name": "Central European Free Trade Agreement",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/cefta.svg",
+    "file_4x3": "4x3/cefta.svg",
+    "file_1x1": "1x1/cefta.svg"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/td.svg",
+    "file_4x3": "4x3/td.svg",
+    "file_1x1": "1x1/td.svg"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/cl.svg",
+    "file_4x3": "4x3/cl.svg",
+    "file_1x1": "1x1/cl.svg"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/cn.svg",
+    "file_4x3": "4x3/cn.svg",
+    "file_1x1": "1x1/cn.svg"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/cx.svg",
+    "file_4x3": "4x3/cx.svg",
+    "file_1x1": "1x1/cx.svg"
+  },
+  {
+    "code": "CP",
+    "name": "Clipperton Island",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/cp.svg",
+    "file_4x3": "4x3/cp.svg",
+    "file_1x1": "1x1/cp.svg"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/cc.svg",
+    "file_4x3": "4x3/cc.svg",
+    "file_1x1": "1x1/cc.svg"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/co.svg",
+    "file_4x3": "4x3/co.svg",
+    "file_1x1": "1x1/co.svg"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/km.svg",
+    "file_4x3": "4x3/km.svg",
+    "file_1x1": "1x1/km.svg"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/ck.svg",
+    "file_4x3": "4x3/ck.svg",
+    "file_1x1": "1x1/ck.svg"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/cr.svg",
+    "file_4x3": "4x3/cr.svg",
+    "file_1x1": "1x1/cr.svg"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/hr.svg",
+    "file_4x3": "4x3/hr.svg",
+    "file_1x1": "1x1/hr.svg"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/cu.svg",
+    "file_4x3": "4x3/cu.svg",
+    "file_1x1": "1x1/cu.svg"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/cw.svg",
+    "file_4x3": "4x3/cw.svg",
+    "file_1x1": "1x1/cw.svg"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/cy.svg",
+    "file_4x3": "4x3/cy.svg",
+    "file_1x1": "1x1/cy.svg"
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/cz.svg",
+    "file_4x3": "4x3/cz.svg",
+    "file_1x1": "1x1/cz.svg"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ci.svg",
+    "file_4x3": "4x3/ci.svg",
+    "file_1x1": "1x1/ci.svg"
+  },
+  {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/cd.svg",
+    "file_4x3": "4x3/cd.svg",
+    "file_1x1": "1x1/cd.svg"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/dk.svg",
+    "file_4x3": "4x3/dk.svg",
+    "file_1x1": "1x1/dk.svg"
+  },
+  {
+    "code": "DG",
+    "name": "Diego Garcia",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/dg.svg",
+    "file_4x3": "4x3/dg.svg",
+    "file_1x1": "1x1/dg.svg"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/dj.svg",
+    "file_4x3": "4x3/dj.svg",
+    "file_1x1": "1x1/dj.svg"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/dm.svg",
+    "file_4x3": "4x3/dm.svg",
+    "file_1x1": "1x1/dm.svg"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/do.svg",
+    "file_4x3": "4x3/do.svg",
+    "file_1x1": "1x1/do.svg"
+  },
+  {
+    "code": "EAC",
+    "name": "East African Community",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/eac.svg",
+    "file_4x3": "4x3/eac.svg",
+    "file_1x1": "1x1/eac.svg"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/ec.svg",
+    "file_4x3": "4x3/ec.svg",
+    "file_1x1": "1x1/ec.svg"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/eg.svg",
+    "file_4x3": "4x3/eg.svg",
+    "file_1x1": "1x1/eg.svg"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/sv.svg",
+    "file_4x3": "4x3/sv.svg",
+    "file_1x1": "1x1/sv.svg"
+  },
+  {
+    "code": "GB-ENG",
+    "name": "England",
+    "continent": "Europe",
+    "iso": false,
+    "file": "4x3/gb-eng.svg",
+    "file_4x3": "4x3/gb-eng.svg",
+    "file_1x1": "1x1/gb-eng.svg"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/gq.svg",
+    "file_4x3": "4x3/gq.svg",
+    "file_1x1": "1x1/gq.svg"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/er.svg",
+    "file_4x3": "4x3/er.svg",
+    "file_1x1": "1x1/er.svg"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ee.svg",
+    "file_4x3": "4x3/ee.svg",
+    "file_1x1": "1x1/ee.svg"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sz.svg",
+    "file_4x3": "4x3/sz.svg",
+    "file_1x1": "1x1/sz.svg"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/et.svg",
+    "file_4x3": "4x3/et.svg",
+    "file_1x1": "1x1/et.svg"
+  },
+  {
+    "code": "EU",
+    "name": "Europe",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/eu.svg",
+    "file_4x3": "4x3/eu.svg",
+    "file_1x1": "1x1/eu.svg"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/fk.svg",
+    "file_4x3": "4x3/fk.svg",
+    "file_1x1": "1x1/fk.svg"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/fo.svg",
+    "file_4x3": "4x3/fo.svg",
+    "file_1x1": "1x1/fo.svg"
+  },
+  {
+    "code": "FM",
+    "name": "Federated States of Micronesia",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/fm.svg",
+    "file_4x3": "4x3/fm.svg",
+    "file_1x1": "1x1/fm.svg"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/fj.svg",
+    "file_4x3": "4x3/fj.svg",
+    "file_1x1": "1x1/fj.svg"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/fi.svg",
+    "file_4x3": "4x3/fi.svg",
+    "file_1x1": "1x1/fi.svg"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/fr.svg",
+    "file_4x3": "4x3/fr.svg",
+    "file_1x1": "1x1/fr.svg"
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/gf.svg",
+    "file_4x3": "4x3/gf.svg",
+    "file_1x1": "1x1/gf.svg"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/pf.svg",
+    "file_4x3": "4x3/pf.svg",
+    "file_1x1": "1x1/pf.svg"
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/tf.svg",
+    "file_4x3": "4x3/tf.svg",
+    "file_1x1": "1x1/tf.svg"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ga.svg",
+    "file_4x3": "4x3/ga.svg",
+    "file_1x1": "1x1/ga.svg"
+  },
+  {
+    "code": "ES-GA",
+    "name": "Galicia",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/es-ga.svg",
+    "file_4x3": "4x3/es-ga.svg",
+    "file_1x1": "1x1/es-ga.svg"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/gm.svg",
+    "file_4x3": "4x3/gm.svg",
+    "file_1x1": "1x1/gm.svg"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ge.svg",
+    "file_4x3": "4x3/ge.svg",
+    "file_1x1": "1x1/ge.svg"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/de.svg",
+    "file_4x3": "4x3/de.svg",
+    "file_1x1": "1x1/de.svg"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/gh.svg",
+    "file_4x3": "4x3/gh.svg",
+    "file_1x1": "1x1/gh.svg"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/gi.svg",
+    "file_4x3": "4x3/gi.svg",
+    "file_1x1": "1x1/gi.svg"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/gr.svg",
+    "file_4x3": "4x3/gr.svg",
+    "file_1x1": "1x1/gr.svg"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/gl.svg",
+    "file_4x3": "4x3/gl.svg",
+    "file_1x1": "1x1/gl.svg"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/gd.svg",
+    "file_4x3": "4x3/gd.svg",
+    "file_1x1": "1x1/gd.svg"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/gp.svg",
+    "file_4x3": "4x3/gp.svg",
+    "file_1x1": "1x1/gp.svg"
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/gu.svg",
+    "file_4x3": "4x3/gu.svg",
+    "file_1x1": "1x1/gu.svg"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/gt.svg",
+    "file_4x3": "4x3/gt.svg",
+    "file_1x1": "1x1/gt.svg"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/gg.svg",
+    "file_4x3": "4x3/gg.svg",
+    "file_1x1": "1x1/gg.svg"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/gn.svg",
+    "file_4x3": "4x3/gn.svg",
+    "file_1x1": "1x1/gn.svg"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/gw.svg",
+    "file_4x3": "4x3/gw.svg",
+    "file_1x1": "1x1/gw.svg"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/gy.svg",
+    "file_4x3": "4x3/gy.svg",
+    "file_1x1": "1x1/gy.svg"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ht.svg",
+    "file_4x3": "4x3/ht.svg",
+    "file_1x1": "1x1/ht.svg"
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "continent": null,
+    "iso": true,
+    "file": "4x3/hm.svg",
+    "file_4x3": "4x3/hm.svg",
+    "file_1x1": "1x1/hm.svg"
+  },
+  {
+    "code": "VA",
+    "name": "Holy See",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/va.svg",
+    "file_4x3": "4x3/va.svg",
+    "file_1x1": "1x1/va.svg"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/hn.svg",
+    "file_4x3": "4x3/hn.svg",
+    "file_1x1": "1x1/hn.svg"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/hk.svg",
+    "file_4x3": "4x3/hk.svg",
+    "file_1x1": "1x1/hk.svg"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/hu.svg",
+    "file_4x3": "4x3/hu.svg",
+    "file_1x1": "1x1/hu.svg"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/is.svg",
+    "file_4x3": "4x3/is.svg",
+    "file_1x1": "1x1/is.svg"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/in.svg",
+    "file_4x3": "4x3/in.svg",
+    "file_1x1": "1x1/in.svg"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/id.svg",
+    "file_4x3": "4x3/id.svg",
+    "file_1x1": "1x1/id.svg"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ir.svg",
+    "file_4x3": "4x3/ir.svg",
+    "file_1x1": "1x1/ir.svg"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/iq.svg",
+    "file_4x3": "4x3/iq.svg",
+    "file_1x1": "1x1/iq.svg"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ie.svg",
+    "file_4x3": "4x3/ie.svg",
+    "file_1x1": "1x1/ie.svg"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/im.svg",
+    "file_4x3": "4x3/im.svg",
+    "file_1x1": "1x1/im.svg"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/il.svg",
+    "file_4x3": "4x3/il.svg",
+    "file_1x1": "1x1/il.svg"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/it.svg",
+    "file_4x3": "4x3/it.svg",
+    "file_1x1": "1x1/it.svg"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/jm.svg",
+    "file_4x3": "4x3/jm.svg",
+    "file_1x1": "1x1/jm.svg"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/jp.svg",
+    "file_4x3": "4x3/jp.svg",
+    "file_1x1": "1x1/jp.svg"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/je.svg",
+    "file_4x3": "4x3/je.svg",
+    "file_1x1": "1x1/je.svg"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/jo.svg",
+    "file_4x3": "4x3/jo.svg",
+    "file_1x1": "1x1/jo.svg"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kz.svg",
+    "file_4x3": "4x3/kz.svg",
+    "file_1x1": "1x1/kz.svg"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ke.svg",
+    "file_4x3": "4x3/ke.svg",
+    "file_1x1": "1x1/ke.svg"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/ki.svg",
+    "file_4x3": "4x3/ki.svg",
+    "file_1x1": "1x1/ki.svg"
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "continent": "Europe",
+    "iso": false,
+    "file": "4x3/xk.svg",
+    "file_4x3": "4x3/xk.svg",
+    "file_1x1": "1x1/xk.svg"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kw.svg",
+    "file_4x3": "4x3/kw.svg",
+    "file_1x1": "1x1/kw.svg"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kg.svg",
+    "file_4x3": "4x3/kg.svg",
+    "file_1x1": "1x1/kg.svg"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/la.svg",
+    "file_4x3": "4x3/la.svg",
+    "file_1x1": "1x1/la.svg"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/lv.svg",
+    "file_4x3": "4x3/lv.svg",
+    "file_1x1": "1x1/lv.svg"
+  },
+  {
+    "code": "ARAB",
+    "name": "League of Arab States",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/arab.svg",
+    "file_4x3": "4x3/arab.svg",
+    "file_1x1": "1x1/arab.svg"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/lb.svg",
+    "file_4x3": "4x3/lb.svg",
+    "file_1x1": "1x1/lb.svg"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ls.svg",
+    "file_4x3": "4x3/ls.svg",
+    "file_1x1": "1x1/ls.svg"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/lr.svg",
+    "file_4x3": "4x3/lr.svg",
+    "file_1x1": "1x1/lr.svg"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ly.svg",
+    "file_4x3": "4x3/ly.svg",
+    "file_1x1": "1x1/ly.svg"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/li.svg",
+    "file_4x3": "4x3/li.svg",
+    "file_1x1": "1x1/li.svg"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/lt.svg",
+    "file_4x3": "4x3/lt.svg",
+    "file_1x1": "1x1/lt.svg"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/lu.svg",
+    "file_4x3": "4x3/lu.svg",
+    "file_1x1": "1x1/lu.svg"
+  },
+  {
+    "code": "MO",
+    "name": "Macau",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/mo.svg",
+    "file_4x3": "4x3/mo.svg",
+    "file_1x1": "1x1/mo.svg"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/mg.svg",
+    "file_4x3": "4x3/mg.svg",
+    "file_1x1": "1x1/mg.svg"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/mw.svg",
+    "file_4x3": "4x3/mw.svg",
+    "file_1x1": "1x1/mw.svg"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/my.svg",
+    "file_4x3": "4x3/my.svg",
+    "file_1x1": "1x1/my.svg"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/mv.svg",
+    "file_4x3": "4x3/mv.svg",
+    "file_1x1": "1x1/mv.svg"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ml.svg",
+    "file_4x3": "4x3/ml.svg",
+    "file_1x1": "1x1/ml.svg"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/mt.svg",
+    "file_4x3": "4x3/mt.svg",
+    "file_1x1": "1x1/mt.svg"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/mh.svg",
+    "file_4x3": "4x3/mh.svg",
+    "file_1x1": "1x1/mh.svg"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/mq.svg",
+    "file_4x3": "4x3/mq.svg",
+    "file_1x1": "1x1/mq.svg"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/mr.svg",
+    "file_4x3": "4x3/mr.svg",
+    "file_1x1": "1x1/mr.svg"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/mu.svg",
+    "file_4x3": "4x3/mu.svg",
+    "file_1x1": "1x1/mu.svg"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/yt.svg",
+    "file_4x3": "4x3/yt.svg",
+    "file_1x1": "1x1/yt.svg"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/mx.svg",
+    "file_4x3": "4x3/mx.svg",
+    "file_1x1": "1x1/mx.svg"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/md.svg",
+    "file_4x3": "4x3/md.svg",
+    "file_1x1": "1x1/md.svg"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/mc.svg",
+    "file_4x3": "4x3/mc.svg",
+    "file_1x1": "1x1/mc.svg"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/mn.svg",
+    "file_4x3": "4x3/mn.svg",
+    "file_1x1": "1x1/mn.svg"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/me.svg",
+    "file_4x3": "4x3/me.svg",
+    "file_1x1": "1x1/me.svg"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ms.svg",
+    "file_4x3": "4x3/ms.svg",
+    "file_1x1": "1x1/ms.svg"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ma.svg",
+    "file_4x3": "4x3/ma.svg",
+    "file_1x1": "1x1/ma.svg"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/mz.svg",
+    "file_4x3": "4x3/mz.svg",
+    "file_1x1": "1x1/mz.svg"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/mm.svg",
+    "file_4x3": "4x3/mm.svg",
+    "file_1x1": "1x1/mm.svg"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/na.svg",
+    "file_4x3": "4x3/na.svg",
+    "file_1x1": "1x1/na.svg"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/nr.svg",
+    "file_4x3": "4x3/nr.svg",
+    "file_1x1": "1x1/nr.svg"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/np.svg",
+    "file_4x3": "4x3/np.svg",
+    "file_1x1": "1x1/np.svg"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/nl.svg",
+    "file_4x3": "4x3/nl.svg",
+    "file_1x1": "1x1/nl.svg"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/nc.svg",
+    "file_4x3": "4x3/nc.svg",
+    "file_1x1": "1x1/nc.svg"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/nz.svg",
+    "file_4x3": "4x3/nz.svg",
+    "file_1x1": "1x1/nz.svg"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/ni.svg",
+    "file_4x3": "4x3/ni.svg",
+    "file_1x1": "1x1/ni.svg"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ne.svg",
+    "file_4x3": "4x3/ne.svg",
+    "file_1x1": "1x1/ne.svg"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ng.svg",
+    "file_4x3": "4x3/ng.svg",
+    "file_1x1": "1x1/ng.svg"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/nu.svg",
+    "file_4x3": "4x3/nu.svg",
+    "file_1x1": "1x1/nu.svg"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/nf.svg",
+    "file_4x3": "4x3/nf.svg",
+    "file_1x1": "1x1/nf.svg"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kp.svg",
+    "file_4x3": "4x3/kp.svg",
+    "file_1x1": "1x1/kp.svg"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/mk.svg",
+    "file_4x3": "4x3/mk.svg",
+    "file_1x1": "1x1/mk.svg"
+  },
+  {
+    "code": "GB-NIR",
+    "name": "Northern Ireland",
+    "continent": "Europe",
+    "iso": false,
+    "file": "4x3/gb-nir.svg",
+    "file_4x3": "4x3/gb-nir.svg",
+    "file_1x1": "1x1/gb-nir.svg"
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/mp.svg",
+    "file_4x3": "4x3/mp.svg",
+    "file_1x1": "1x1/mp.svg"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/no.svg",
+    "file_4x3": "4x3/no.svg",
+    "file_1x1": "1x1/no.svg"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/om.svg",
+    "file_4x3": "4x3/om.svg",
+    "file_1x1": "1x1/om.svg"
+  },
+  {
+    "code": "PC",
+    "name": "Pacific Community",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/pc.svg",
+    "file_4x3": "4x3/pc.svg",
+    "file_1x1": "1x1/pc.svg"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/pk.svg",
+    "file_4x3": "4x3/pk.svg",
+    "file_1x1": "1x1/pk.svg"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/pw.svg",
+    "file_4x3": "4x3/pw.svg",
+    "file_1x1": "1x1/pw.svg"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/pa.svg",
+    "file_4x3": "4x3/pa.svg",
+    "file_1x1": "1x1/pa.svg"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/pg.svg",
+    "file_4x3": "4x3/pg.svg",
+    "file_1x1": "1x1/pg.svg"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/py.svg",
+    "file_4x3": "4x3/py.svg",
+    "file_1x1": "1x1/py.svg"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/pe.svg",
+    "file_4x3": "4x3/pe.svg",
+    "file_1x1": "1x1/pe.svg"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ph.svg",
+    "file_4x3": "4x3/ph.svg",
+    "file_1x1": "1x1/ph.svg"
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/pn.svg",
+    "file_4x3": "4x3/pn.svg",
+    "file_1x1": "1x1/pn.svg"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/pl.svg",
+    "file_4x3": "4x3/pl.svg",
+    "file_1x1": "1x1/pl.svg"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/pt.svg",
+    "file_4x3": "4x3/pt.svg",
+    "file_1x1": "1x1/pt.svg"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/pr.svg",
+    "file_4x3": "4x3/pr.svg",
+    "file_1x1": "1x1/pr.svg"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/qa.svg",
+    "file_4x3": "4x3/qa.svg",
+    "file_1x1": "1x1/qa.svg"
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/cg.svg",
+    "file_4x3": "4x3/cg.svg",
+    "file_1x1": "1x1/cg.svg"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ro.svg",
+    "file_4x3": "4x3/ro.svg",
+    "file_1x1": "1x1/ro.svg"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ru.svg",
+    "file_4x3": "4x3/ru.svg",
+    "file_1x1": "1x1/ru.svg"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/rw.svg",
+    "file_4x3": "4x3/rw.svg",
+    "file_1x1": "1x1/rw.svg"
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/re.svg",
+    "file_4x3": "4x3/re.svg",
+    "file_1x1": "1x1/re.svg"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/bl.svg",
+    "file_4x3": "4x3/bl.svg",
+    "file_1x1": "1x1/bl.svg"
+  },
+  {
+    "code": "SH-HL",
+    "name": "Saint Helena",
+    "continent": "Africa",
+    "iso": false,
+    "file": "4x3/sh-hl.svg",
+    "file_4x3": "4x3/sh-hl.svg",
+    "file_1x1": "1x1/sh-hl.svg"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sh.svg",
+    "file_4x3": "4x3/sh.svg",
+    "file_1x1": "1x1/sh.svg"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/kn.svg",
+    "file_4x3": "4x3/kn.svg",
+    "file_1x1": "1x1/kn.svg"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/lc.svg",
+    "file_4x3": "4x3/lc.svg",
+    "file_1x1": "1x1/lc.svg"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/mf.svg",
+    "file_4x3": "4x3/mf.svg",
+    "file_1x1": "1x1/mf.svg"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/pm.svg",
+    "file_4x3": "4x3/pm.svg",
+    "file_1x1": "1x1/pm.svg"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/vc.svg",
+    "file_4x3": "4x3/vc.svg",
+    "file_1x1": "1x1/vc.svg"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/ws.svg",
+    "file_4x3": "4x3/ws.svg",
+    "file_1x1": "1x1/ws.svg"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/sm.svg",
+    "file_4x3": "4x3/sm.svg",
+    "file_1x1": "1x1/sm.svg"
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/st.svg",
+    "file_4x3": "4x3/st.svg",
+    "file_1x1": "1x1/st.svg"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/sa.svg",
+    "file_4x3": "4x3/sa.svg",
+    "file_1x1": "1x1/sa.svg"
+  },
+  {
+    "code": "GB-SCT",
+    "name": "Scotland",
+    "continent": "Europe",
+    "iso": false,
+    "file": "4x3/gb-sct.svg",
+    "file_4x3": "4x3/gb-sct.svg",
+    "file_1x1": "1x1/gb-sct.svg"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sn.svg",
+    "file_4x3": "4x3/sn.svg",
+    "file_1x1": "1x1/sn.svg"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/rs.svg",
+    "file_4x3": "4x3/rs.svg",
+    "file_1x1": "1x1/rs.svg"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sc.svg",
+    "file_4x3": "4x3/sc.svg",
+    "file_1x1": "1x1/sc.svg"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sl.svg",
+    "file_4x3": "4x3/sl.svg",
+    "file_1x1": "1x1/sl.svg"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/sg.svg",
+    "file_4x3": "4x3/sg.svg",
+    "file_1x1": "1x1/sg.svg"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/sx.svg",
+    "file_4x3": "4x3/sx.svg",
+    "file_1x1": "1x1/sx.svg"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/sk.svg",
+    "file_4x3": "4x3/sk.svg",
+    "file_1x1": "1x1/sk.svg"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/si.svg",
+    "file_4x3": "4x3/si.svg",
+    "file_1x1": "1x1/si.svg"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/sb.svg",
+    "file_4x3": "4x3/sb.svg",
+    "file_1x1": "1x1/sb.svg"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/so.svg",
+    "file_4x3": "4x3/so.svg",
+    "file_1x1": "1x1/so.svg"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/za.svg",
+    "file_4x3": "4x3/za.svg",
+    "file_1x1": "1x1/za.svg"
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "continent": "Antarctica",
+    "iso": true,
+    "file": "4x3/gs.svg",
+    "file_4x3": "4x3/gs.svg",
+    "file_1x1": "1x1/gs.svg"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/kr.svg",
+    "file_4x3": "4x3/kr.svg",
+    "file_1x1": "1x1/kr.svg"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ss.svg",
+    "file_4x3": "4x3/ss.svg",
+    "file_1x1": "1x1/ss.svg"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/es.svg",
+    "file_4x3": "4x3/es.svg",
+    "file_1x1": "1x1/es.svg"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/lk.svg",
+    "file_4x3": "4x3/lk.svg",
+    "file_1x1": "1x1/lk.svg"
+  },
+  {
+    "code": "PS",
+    "name": "State of Palestine",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ps.svg",
+    "file_4x3": "4x3/ps.svg",
+    "file_1x1": "1x1/ps.svg"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/sd.svg",
+    "file_4x3": "4x3/sd.svg",
+    "file_1x1": "1x1/sd.svg"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/sr.svg",
+    "file_4x3": "4x3/sr.svg",
+    "file_1x1": "1x1/sr.svg"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/sj.svg",
+    "file_4x3": "4x3/sj.svg",
+    "file_1x1": "1x1/sj.svg"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/se.svg",
+    "file_4x3": "4x3/se.svg",
+    "file_1x1": "1x1/se.svg"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ch.svg",
+    "file_4x3": "4x3/ch.svg",
+    "file_1x1": "1x1/ch.svg"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/sy.svg",
+    "file_4x3": "4x3/sy.svg",
+    "file_1x1": "1x1/sy.svg"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/tw.svg",
+    "file_4x3": "4x3/tw.svg",
+    "file_1x1": "1x1/tw.svg"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/tj.svg",
+    "file_4x3": "4x3/tj.svg",
+    "file_1x1": "1x1/tj.svg"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/tz.svg",
+    "file_4x3": "4x3/tz.svg",
+    "file_1x1": "1x1/tz.svg"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/th.svg",
+    "file_4x3": "4x3/th.svg",
+    "file_1x1": "1x1/th.svg"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/tl.svg",
+    "file_4x3": "4x3/tl.svg",
+    "file_1x1": "1x1/tl.svg"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/tg.svg",
+    "file_4x3": "4x3/tg.svg",
+    "file_1x1": "1x1/tg.svg"
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/tk.svg",
+    "file_4x3": "4x3/tk.svg",
+    "file_1x1": "1x1/tk.svg"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/to.svg",
+    "file_4x3": "4x3/to.svg",
+    "file_1x1": "1x1/to.svg"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/tt.svg",
+    "file_4x3": "4x3/tt.svg",
+    "file_1x1": "1x1/tt.svg"
+  },
+  {
+    "code": "SH-TA",
+    "name": "Tristan da Cunha",
+    "continent": "Africa",
+    "iso": false,
+    "file": "4x3/sh-ta.svg",
+    "file_4x3": "4x3/sh-ta.svg",
+    "file_1x1": "1x1/sh-ta.svg"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/tn.svg",
+    "file_4x3": "4x3/tn.svg",
+    "file_1x1": "1x1/tn.svg"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/tm.svg",
+    "file_4x3": "4x3/tm.svg",
+    "file_1x1": "1x1/tm.svg"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/tc.svg",
+    "file_4x3": "4x3/tc.svg",
+    "file_1x1": "1x1/tc.svg"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/tv.svg",
+    "file_4x3": "4x3/tv.svg",
+    "file_1x1": "1x1/tv.svg"
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/tr.svg",
+    "file_4x3": "4x3/tr.svg",
+    "file_1x1": "1x1/tr.svg"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/ug.svg",
+    "file_4x3": "4x3/ug.svg",
+    "file_1x1": "1x1/ug.svg"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/ua.svg",
+    "file_4x3": "4x3/ua.svg",
+    "file_1x1": "1x1/ua.svg"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ae.svg",
+    "file_4x3": "4x3/ae.svg",
+    "file_1x1": "1x1/ae.svg"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "continent": "Europe",
+    "iso": true,
+    "file": "4x3/gb.svg",
+    "file_4x3": "4x3/gb.svg",
+    "file_1x1": "1x1/gb.svg"
+  },
+  {
+    "code": "UN",
+    "name": "United Nations",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/un.svg",
+    "file_4x3": "4x3/un.svg",
+    "file_1x1": "1x1/un.svg"
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/um.svg",
+    "file_4x3": "4x3/um.svg",
+    "file_1x1": "1x1/um.svg"
+  },
+  {
+    "code": "US",
+    "name": "United States of America",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/us.svg",
+    "file_4x3": "4x3/us.svg",
+    "file_1x1": "1x1/us.svg"
+  },
+  {
+    "code": "XX",
+    "name": "Unknown",
+    "continent": null,
+    "iso": false,
+    "file": "4x3/xx.svg",
+    "file_4x3": "4x3/xx.svg",
+    "file_1x1": "1x1/xx.svg"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/uy.svg",
+    "file_4x3": "4x3/uy.svg",
+    "file_1x1": "1x1/uy.svg"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/uz.svg",
+    "file_4x3": "4x3/uz.svg",
+    "file_1x1": "1x1/uz.svg"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/vu.svg",
+    "file_4x3": "4x3/vu.svg",
+    "file_1x1": "1x1/vu.svg"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "continent": "South America",
+    "iso": true,
+    "file": "4x3/ve.svg",
+    "file_4x3": "4x3/ve.svg",
+    "file_1x1": "1x1/ve.svg"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/vn.svg",
+    "file_4x3": "4x3/vn.svg",
+    "file_1x1": "1x1/vn.svg"
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/vg.svg",
+    "file_4x3": "4x3/vg.svg",
+    "file_1x1": "1x1/vg.svg"
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "continent": "North America",
+    "iso": true,
+    "file": "4x3/vi.svg",
+    "file_4x3": "4x3/vi.svg",
+    "file_1x1": "1x1/vi.svg"
+  },
+  {
+    "code": "GB-WLS",
+    "name": "Wales",
+    "continent": "Europe",
+    "iso": false,
+    "file": "4x3/gb-wls.svg",
+    "file_4x3": "4x3/gb-wls.svg",
+    "file_1x1": "1x1/gb-wls.svg"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "continent": "Oceania",
+    "iso": true,
+    "file": "4x3/wf.svg",
+    "file_4x3": "4x3/wf.svg",
+    "file_1x1": "1x1/wf.svg"
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/eh.svg",
+    "file_4x3": "4x3/eh.svg",
+    "file_1x1": "1x1/eh.svg"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "continent": "Asia",
+    "iso": true,
+    "file": "4x3/ye.svg",
+    "file_4x3": "4x3/ye.svg",
+    "file_1x1": "1x1/ye.svg"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/zm.svg",
+    "file_4x3": "4x3/zm.svg",
+    "file_1x1": "1x1/zm.svg"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "continent": "Africa",
+    "iso": true,
+    "file": "4x3/zw.svg",
+    "file_4x3": "4x3/zw.svg",
+    "file_1x1": "1x1/zw.svg"
+  }
+]

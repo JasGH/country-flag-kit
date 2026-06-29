@@ -1,0 +1,41 @@
+{
+  "name": "country-flags-svg",
+  "version": "1.0.0",
+  "description": "271 country flags as clean SVGs in 4:3 and 1:1, based on flag-icons, with an ISO-3166 manifest.",
+  "keywords": [
+    "flags",
+    "country-flags",
+    "svg",
+    "flag-icons",
+    "iso-3166",
+    "4x3",
+    "1x1",
+    "country-picker"
+  ],
+  "license": "MIT",
+  "author": "YOUR_NAME",
+  "homepage": "https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_HANDLE/country-flags-svg/issues"
+  },
+  "main": "index.json",
+  "exports": {
+    ".": "./index.json",
+    "./index.json": "./index.json",
+    "./4x3/*": "./4x3/*",
+    "./1x1/*": "./1x1/*"
+  },
+  "files": [
+    "4x3",
+    "1x1",
+    "index.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "private": false
+}
