@@ -88,8 +88,3 @@ Islands** is recolored to its official deep blue (`#003087`) and orange (`#E5720
 ## License
 
 MIT — see `LICENSE`. Flag artwork is from flag-icons (MIT, © 2013 Panayiotis Lipiridis).
-
-
----
-
-Repo: https://github.com/JasGH/country-flag-kit — `npm publish` when ready (`country-flag-kit` is free on npm).
