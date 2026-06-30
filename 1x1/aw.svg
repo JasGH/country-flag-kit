@@ -5,8 +5,8 @@
     </clipPath>
   </defs>
   <g clip-path="url(#aw-a)">
-    <path fill="#39c" d="M0 0v512h768V0z"/>
-    <path fill="#ff0" d="M0 341.3v28.5h768v-28.5zm0 57v28.4h768v-28.5H0z"/>
+    <path fill="#418fde" d="M0 0v512h768V0z"/>
+    <path fill="#ffd100" d="M0 341.3v28.5h768v-28.5zm0 57v28.4h768v-28.5H0z"/>
     <path fill="#9cc" d="m122 28 2.4 2.5-2.3-2.4zm-2.3 4.8 2.4 2.4zm4.7 0 2.4 2.4-2.3-2.4z"/>
     <path fill="#ccf" d="m119.7 35.2 2.4 2.4zm4.7 0 2.4 2.4-2.3-2.4z"/>
     <path fill="#6cc" d="m117.3 40 2.4 2.3z"/>

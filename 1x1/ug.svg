@@ -7,7 +7,7 @@
   <g clip-path="url(#ug-a)" transform="translate(-128)scale(1.0321)">
     <path fill="#ffe700" fill-rule="evenodd" d="M0 330.7h744v82.7H0z"/>
     <path fill="#000001" fill-rule="evenodd" d="M0 248h744v82.7H0z"/>
-    <path fill="#de3908" fill-rule="evenodd" d="M0 165.4h744V248H0z"/>
+    <path fill="#d90000" fill-rule="evenodd" d="M0 165.4h744V248H0z"/>
     <path fill="#ffe700" fill-rule="evenodd" d="M0 82.7h744v82.7H0z"/>
     <path fill="#000001" fill-rule="evenodd" d="M0 0h744v82.7H0z"/>
     <path fill="#fffdff" fill-rule="evenodd" stroke="#000" stroke-width=".9" d="M449.3 248a77.2 77.2 0 1 1-154.5 0 77.2 77.2 0 0 1 154.5 0z"/>
@@ -25,6 +25,6 @@
     <path fill="#de3108" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".8" d="M385.8 254.4c-.3.1 21.6 12.9 15 23.9 6.3-4.1 4.2-11.4 4.2-11.4s5.1 13.3-7.3 19.8c1.4 1.2 2.2.9 2.2.9l-2 2.1s-1 1.6 7.3-2.4c-2.3 1.8-2.5 3.1-2.5 3.1s.7 1.8 6.1-3a30 30 0 0 0-5.4 7.2c12-1.1 37.8-39.7-8.1-51.1l2 2.2z"/>
     <path fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" d="M386.7 250.6c3 2 4 2.8 4.4 3.8-2.7-.6-5.2-.4-5.2-.4s-5.8-5.6-6.9-6c-.8 0-5.4-3-5.4-3-2.3-1.1-4.4-9 4-6.7 8.8 4.1 10 4.4 10 4.4L398 246l6 6.7s-10.7-5.3-12-5.4c3 2.4 4.6 5.6 4.6 5.6-3.4-1-6.3-1.8-9.9-2.3"/>
     <path fill="none" stroke="#fff" stroke-linecap="round" stroke-width=".8" d="M345.3 203.3s10.2-2.4 11.4-2"/>
-    <path fill="#de3908" fill-rule="evenodd" d="M0 413.4h744v82.7H0z"/>
+    <path fill="#d90000" fill-rule="evenodd" d="M0 413.4h744v82.7H0z"/>
   </g>
 </svg>

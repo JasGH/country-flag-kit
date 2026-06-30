@@ -82,7 +82,7 @@ click-to-copy. Publish free via **GitHub Pages** (Settings → Pages → deploy 
 
 ## Colors
 
-Flags use flag-icons' colors (Wikipedia-sourced, the widely used standard). **Marshall
+Flags keep flag-icons' undistorted shapes, with colors corrected to official specification (122 flags — e.g. Kuwait's official green `#007a3d`, not flag-icons' brighter default). **Marshall
 Islands** is recolored to its official deep blue (`#003087`) and orange (`#E57200`).
 
 ## License
